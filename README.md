@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rain</h1>
-<h3 align="center">Technical writer | Backend Developer | Data Scientist</h3>
+<h3 align="center">Technical writer | Backend Developer</h3>
 
-- 🔭 I’m open to **Junior Backend Developer and Data Science roles**
+- 🔭 I’m open to **Junior Backend Developer roles**
 
 - 🌱 I’m currently mastering API development with **Django Rest Framework**
 
